@@ -6,7 +6,7 @@ class HomePage extends StatelessWidget {
   final int days = 20;
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return Scaffold( 
       appBar: AppBar(
         // backgroundColor: Colors.white,             Changes Applied on main.dart instead of home_page.dart
         // elevation: 0.5,

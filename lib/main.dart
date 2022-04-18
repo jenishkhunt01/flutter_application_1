@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       // home: HomePage(),
-      themeMode: ThemeMode.dark,
+      themeMode: ThemeMode.light,
       theme: MyTheme.lightTheme(),
       darkTheme: MyTheme.darkTheme(),
       // primaryTextTheme: GoogleFonts.latoTextTheme()),  // Applies only on primary text
