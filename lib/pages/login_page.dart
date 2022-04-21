@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/utils/routes.dart';
+import 'package:flutter_application_1/utils/routes.dart' show MyRoutes;
 import 'package:google_fonts/google_fonts.dart';
 
 class LoginPage extends StatefulWidget {
