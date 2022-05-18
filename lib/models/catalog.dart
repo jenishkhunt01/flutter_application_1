@@ -2,7 +2,7 @@
 import 'dart:convert';
 
 class CatalogModel {
-  static List<Item> items = <Item>[]; 
+  static List<Item> items = <Item>[];
 }
 
 class Item {
